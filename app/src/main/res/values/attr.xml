@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardText">
+        <attr name="text" format="string" />
+        <attr name="text_size" format="dimension" />
+        <attr name="textColorNormal" format="color" />
+        <attr name="textColorPressed" format="color" />
+        <attr name="CardViewColorNormal" format="color" />
+        <attr name="CardViewColorPressed" format="color" />
+        <attr name="backGroundDrawable" format="reference" />
+
+    </declare-styleable>
+</resources>
